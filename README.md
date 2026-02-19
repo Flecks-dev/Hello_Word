@@ -1,2 +1,2 @@
 # Hello_Word
-simple hello word in Python
+Hello word in Python
