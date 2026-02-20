@@ -1,1 +1,6 @@
+#O comando básico é esse abaixo
+
 print ("Hello World")
+
+# Pra voçê fazer ele escrever na linha de baixo
+# voçê pode fazer assim print("Hello World\nVoçê já se hidratou hoje?")
